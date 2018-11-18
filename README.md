@@ -1,3 +1,7 @@
+---
+typora-copy-images-to: img
+---
+
 # Software Downloader project
 
 Old project for downloading software installations from official websites expanded with web API and server-side download link scraping once a day. 
@@ -10,3 +14,4 @@ All components are written in Python:
 
 
 
+![desktop_img](img/desktop_img.png)
